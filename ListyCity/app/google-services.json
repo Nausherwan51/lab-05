@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990658535504",
+    "project_id": "testnosh",
+    "storage_bucket": "testnosh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990658535504:android:32c4a1d81e2cccba6b7155",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjpXAfFsDPFOHRr7lVWzH3VJ18TJEo3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
